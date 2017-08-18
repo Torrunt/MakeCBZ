@@ -10,6 +10,7 @@ Why uncompressed? So your reader can open them faster. There is no real reason t
 
 ### Usage
 [Right-click folder -> Send to -> CBZ] to create a new CBZ from the contents
+
 [Right-click .cbz, .cbr, .zip or .rar -> Send to -> CBZ] to convert them to a (uncompressed) CBZ
 ##### Example
 With a folder structure like below you can right-click -> CBZ the Volume 01 folder to create a file called "Title - Volume 01.cbz"
